@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grannyhun/static/css/main.0c6d6c6c.css",
+    "main.js": "/grannyhun/static/js/main.6a138c56.js",
+    "index.html": "/grannyhun/index.html",
+    "main.0c6d6c6c.css.map": "/grannyhun/static/css/main.0c6d6c6c.css.map",
+    "main.6a138c56.js.map": "/grannyhun/static/js/main.6a138c56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c6d6c6c.css",
+    "static/js/main.6a138c56.js"
+  ]
+}
