@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c6d6c6c.css",
-    "main.js": "/static/js/main.b12071c4.js",
-    "index.html": "/index.html",
-    "main.0c6d6c6c.css.map": "/static/css/main.0c6d6c6c.css.map",
-    "main.b12071c4.js.map": "/static/js/main.b12071c4.js.map"
+    "main.css": "/grannyhun/static/css/main.0c6d6c6c.css",
+    "main.js": "/grannyhun/static/js/main.f4f0563d.js",
+    "index.html": "/grannyhun/index.html",
+    "main.0c6d6c6c.css.map": "/grannyhun/static/css/main.0c6d6c6c.css.map",
+    "main.f4f0563d.js.map": "/grannyhun/static/js/main.f4f0563d.js.map"
   },
   "entrypoints": [
     "static/css/main.0c6d6c6c.css",
-    "static/js/main.b12071c4.js"
+    "static/js/main.f4f0563d.js"
   ]
 }
